@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.org/chriso/klein.php.png?branch=master)](https://travis-ci.org/chriso/klein.php)
 
+---
+ 
+**Note: ** The main "klein.php" repository seems to be inactive, in this fork we try to keep the projects maintenanced.
+
+---
+
 **klein.php** is a fast & flexible router for PHP 5.3+
 
 * Flexible regular expression routing (inspired by [Sinatra](http://www.sinatrarb.com/))
