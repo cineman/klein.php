@@ -4,7 +4,7 @@
 
 ---
  
-**Note: ** The main "klein.php" repository seems to be inactive, in this fork we try to keep the projects maintenanced.
+**Note:** The main "klein.php" repository seems to be inactive, in this fork we try to keep the projects maintenanced.
 
 ---
 
