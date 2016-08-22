@@ -1,8 +1,8 @@
 {
-   "name": "klein/klein",
+   "name": "cineman/klein",
    "description": "A lightning fast router for PHP",
    "keywords": ["router", "routing", "sinatra", "boilerplate"],
-   "homepage": "https://github.com/chriso/klein.php",
+   "homepage": "https://github.com/cineman/klein.php",
    "license": "MIT",
    "authors": [
       {
